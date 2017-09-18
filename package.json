@@ -43,5 +43,14 @@
     "README.md",
     "source",
     "build"
-  ]
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerbf/remap-number.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rogerbf/remap-number/issues"
+  },
+  "homepage": "https://github.com/rogerbf/remap-number#readme"
 }
